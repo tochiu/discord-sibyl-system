@@ -1,0 +1,1 @@
+export const AUDIO_CLIP_SECONDS = 30;
